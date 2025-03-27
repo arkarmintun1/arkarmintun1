@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arkar Min Tun</h1>
 <h3 align="center">A passionate Fullstack Software Engineer from Myanmar.</h3>
 
-- 💬 Ask me about **React, React Native, Node.js**
+- 💬 Ask me about **React, React Native, Flutter, Node.js**
 
 - 📫 How to reach me **arkarmintun1@gmail.com**
 
