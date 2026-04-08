@@ -30,10 +30,6 @@
 
 ###
 
-<a href="https://app.daily.dev/arkarmintun"><img src="https://api.daily.dev/devcards/v2/RLTeWbOJF.png?type=default&r=dn0" width="356" alt="Arkar Min Tun's Dev Card"/></a>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -142,12 +138,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arkarmintun1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
